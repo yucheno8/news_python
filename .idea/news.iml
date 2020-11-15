@@ -11,6 +11,7 @@
     <option name="TEMPLATE_FOLDERS">
       <list>
         <option value="$MODULE_DIR$/LiaoSirWeb/unit_test" />
+        <option value="$MODULE_DIR$/LiaoSirWeb" />
       </list>
     </option>
   </component>
